@@ -1,6 +1,17 @@
 // ==UserScript==
-// @name                Coletar Recursos 8h
-// @namespace           @MeleeGoD
+// @name                Coletar Recursos 5h
+// @namespace           @@marcosvinicius.santosmarques
+// @icon                https://i.imgur.com/7WgHTT8.gif
+// @website             https://tribalwarsbr100.wixsite.com/tw100
+// @email               tribalwarsbr100@gmail.com
+// @description 	    Script de coletar recursos tribal wars
+// @author		        Marcos v.s Marques
+// @include             https://*/game.php?village=*&screen=place&mode=scavenge*
+// @version     	    0.0.1
+// @copyright           2018, Tribalwarsbr100 (https://openuserjs.org//users/Tribalwarsbr100)
+// @version             0.0.1
+// @license             AGPL-3.0-or-later
+// @grant        none
 // ==/UserScript==
 /*	Changelog versão 2.3
 *        Equipe do Canal Youtube TW 100 Foi Realizado a Mais Recente Atualização Para Implatação da universalização do conteudo do canal, assim tornando nosso conteudo cada vez mais usual e presente em todos servidores de tribalwars.
